@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Russel Demos - Math Blog'
+theme = 'PaperMod'
