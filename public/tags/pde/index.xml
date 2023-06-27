@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Russel Demos blog</title>
-    <link>/</link>
-    <description>Recent content on Russel Demos blog</description>
+    <title>pde on Russel Demos blog</title>
+    <link>/tags/pde/</link>
+    <description>Recent content in pde on Russel Demos blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pde/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finite_differences</title>
       <link>/post/finite_differences/</link>

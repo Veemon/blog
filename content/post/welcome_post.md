@@ -1,8 +1,12 @@
 ---
 title: "Welcome Post"
-date: 2023-06-27T05:05:56+10:00
+date: 2023-06-27
+tags: ["first"]
+showToc: true
+TocOpen: false
 draft: true
 math: true
+description: "Can we create a Hugo site?"
 ---
 
 # An introduction with Hugo.

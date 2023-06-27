@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Russel Demos - Math Blog</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Russel Demos - Math Blog</description>
+    <title>Tags on Russel Demos blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Russel Demos blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>numeric</title>
+      <link>/tags/numeric/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/numeric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pde</title>
+      <link>/tags/pde/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pde/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
