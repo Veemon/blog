@@ -1,6 +1,7 @@
 title = "Russel Demos blog"
 theme = "PaperMod"
 
+canonifyURLs = true
 pygmentsUseClasses = true
 
 enableRobotsTXT = true
