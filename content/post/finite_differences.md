@@ -1,5 +1,5 @@
 ---
-title: "Finite_differences"
+title: "Finite Differences"
 date: 2020-11-15
 tags: ["pde", "numeric"]
 showToc: true
